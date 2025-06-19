@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+# The project on next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Stack
+> Next.js, React, TypeScript, Tailwind, clsx
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
