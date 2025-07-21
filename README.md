@@ -1,8 +1,13 @@
-# The project on next.js
+# Финансовая панель мониторинга, имеющая:
 
-## Stack
-> Next.js, React, TypeScript, Tailwind, clsx
+> Общедоступную домашнюю страницу.
+> Страницу входа в систему.
+> Страницы панели мониторинга, защищенные аутентификацией.
+> Возможность для пользователей добавлять, редактировать и удалять счета.
 
-### [The application is posted in vercel](https://nextjs-dashboard-psi-three-10.vercel.app/  "Ссылка на сайт")
+## Стек:
+> Next.js, React, TypeScript, Tailwind, clsx, zod, next-auth, bcrypt
 
+### [Веб приложение](https://nextjs-dashboard-psi-three-10.vercel.app/  "Ссылка на сайт")
 
+![Визуализация](public/opengraph-image.png)
