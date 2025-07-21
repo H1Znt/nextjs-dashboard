@@ -11,6 +11,9 @@
 ## Стек:
 > Next.js, React, TypeScript, Tailwind, clsx, zod, next-auth, bcrypt
 
-### [Веб приложение](https://nextjs-dashboard-psi-three-10.vercel.app/  "Ссылка на сайт")
+Email для входа: user@nextmail.com
+Пароль для входа: 123456
+
+## [Веб приложение](https://nextjs-dashboard-psi-three-10.vercel.app/  "Ссылка на сайт")
 
 ![Визуализация](public/opengraph-image.png)
